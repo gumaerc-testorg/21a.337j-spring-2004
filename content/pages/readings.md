@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the bibliography of course texts and the schedule
+  of readings by class session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 0eb5f92e-fc86-94fa-0f99-aa1e2380b2df
 ---
